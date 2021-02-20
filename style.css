@@ -1,0 +1,39 @@
+#h2
+ {
+     color: #ff0099;
+text-align: center;
+  }
+
+  a
+  {
+    color: #ff0099;
+  }
+ body
+ {
+     padding-left: 10px;
+     padding-right: 10px; 
+     line-height:inherit;
+     margin:0px;
+     font-size: 18px;
+     font-family: 'Courier New', Courier, monospace;
+     
+ }
+  #name
+  {text-align:center}
+  #article
+  {text-align:left
+}
+#navigation
+{text-align:right}
+header{
+    background-color: #333333;
+}
+#header2{
+    color:#ff0099;
+    text-align: center;
+}
+h3{text-align: center;
+}
+#aboutme{
+    text-align: center;
+}
